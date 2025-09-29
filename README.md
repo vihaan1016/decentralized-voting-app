@@ -77,7 +77,7 @@ A blockchain-based voting application built with Solidity smart contracts and Re
 
 6. **Configure MetaMask**
    - Add network: `http://localhost:8545`
-   - Chain ID: `31337`
+   - Chain ID: `1337`
    - Import one of the test accounts from the Hardhat node output
 
 ## 🧪 Testing

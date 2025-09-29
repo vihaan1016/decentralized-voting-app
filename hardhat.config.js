@@ -1,8 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 require("dotenv").config();
 
-console.log("Private key length:", process.env.PRIVATE_KEY?.length);
-console.log("Private key starts with 0x:", process.env.PRIVATE_KEY?.startsWith('0x'));
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
